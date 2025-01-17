@@ -24,7 +24,9 @@ namespace Szamologep
         static int Szorzas (int a, int b){
             return a*b;
         }
-
+        static int Szazalek(int a, int b){
+            return a*b/100;
+        }
 
     }
 }
