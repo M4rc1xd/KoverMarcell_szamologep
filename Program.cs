@@ -8,5 +8,12 @@ namespace Szamologep
         {
             
         }
+
+        static int Osszeadas(int a, int b)
+        {
+            return a + b;
+        }
+
+
     }
 }
